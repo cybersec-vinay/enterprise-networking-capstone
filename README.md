@@ -8,7 +8,7 @@ The network includes separate HR, Finance, and IT departments with centralized D
 
 ## Network Topology
 
-![Enterprise Network Topology](network-topology.png)
+![Enterprise Network Topology](https://github.com/cybersec-vinay/enterprise-networking-capstone/blob/main/Network-topology.png.png)
 
 ## Technologies Implemented
 
